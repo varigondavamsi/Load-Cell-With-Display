@@ -6,6 +6,7 @@ Follow this video by Indrek, for understanding the claibration of the load cell 
 The following libraries are used in the code
 
 "HX711_ADC" library: https://github.com/olkal/HX711_ADC
+
 "Grove - LCD RGB Backlight" Library: https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight
 
 Then connect the load cell and the display to Arduino. 

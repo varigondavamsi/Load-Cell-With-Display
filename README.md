@@ -10,5 +10,8 @@ The following libraries are used in the code
 "Grove - LCD RGB Backlight" Library: https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight
 
 Then connect the load cell and the display to Arduino. 
+Setup 
 ![Setup](https://github.com/varigondavamsi/Load-Cell-With-Display/blob/main/Images/Setup.jpeg)
+
+Output
 ![Output](https://github.com/varigondavamsi/Load-Cell-With-Display/blob/main/Images/Display.jpeg)
